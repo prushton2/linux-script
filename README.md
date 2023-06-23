@@ -1,2 +1,2 @@
-# linux-script
-A compilation of small scripts ive writted to improve quality of life on linux
+# linux-scripts
+A compilation of small scripts i've writted to improve my quality of life on linux. These were written and tested in fedora linux.

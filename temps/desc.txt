@@ -1,0 +1,1 @@
+Displays the temperature of all thermal zones in /sys/class/thermal
